@@ -1,0 +1,282 @@
+[
+    
+    {
+        "id" : 131283,
+        "title" : "有人要看魅族的发布会吗，觉得魅族怎么样？",
+        "url" : "http://www.v2ex.com/t/131283",
+        "content" : "下午2点半\u000D\u000A\u000D\u000Ahttp://c.youku.com/meizu4\u000D\u000A\u000D\u000Ahttp://meizu4.act.qq.com/\u000D\u000A\u000D\u000A如果MX4不高于2K我可能会买。",
+        "content_rendered" : "下午2点半\u003Cbr /\u003E\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://c.youku.com/meizu4\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://c.youku.com/meizu4\u003C/a\u003E\u003Cbr /\u003E\u003Cbr /\u003E\u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://meizu4.act.qq.com/\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://meizu4.act.qq.com/\u003C/a\u003E\u003Cbr /\u003E\u003Cbr /\u003E如果MX4不高于2K我可能会买。",
+        "replies" : 108,
+        "member" : {
+            "id" : 30320,
+            "username" : "tayuo",
+            "tagline" : "All your need is Love",
+            "avatar_mini" : "//cdn.v2ex.com/avatar/52cf/16b5/30320_mini.png?m=1396501769",
+            "avatar_normal" : "//cdn.v2ex.com/avatar/52cf/16b5/30320_normal.png?m=1396501769",
+            "avatar_large" : "//cdn.v2ex.com/avatar/52cf/16b5/30320_large.png?m=1396501769"
+        },
+        "node" : {
+            "id" : 606,
+            "name" : "meizu",
+            "title" : "魅族",
+            "title_alternative" : "Meizu",
+            "url" : "http://www.v2ex.com/go/meizu",
+            "topics" : 11,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/44c4/c173/606_mini.png?m=1409652458",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/44c4/c173/606_normal.png?m=1409652458",
+            "avatar_large" : "//cdn.v2ex.com/navatar/44c4/c173/606_large.png?m=1409652458"
+        },
+        "created" : 1409633990,
+        "last_modified" : 1409652511,
+        "last_touched" : 1409684223
+    },
+    
+    {
+        "id" : 131338,
+        "title" : "已经快被 linux 输入法搞风了",
+        "url" : "http://www.v2ex.com/t/131338",
+        "content" : "我linuxmint 重装了，从官网下的搜狗拼音，现在候选词乱码，有人说安什么qim，软件园里搜不到这个东西，我又用deb删除了软件包，重新用终端安装sudo aptitude install fcitx fcitx\u002Dsogoupinyin，结果提示找不到sogoupinyin，呜呼。",
+        "content_rendered" : "我linuxmint 重装了，从官网下的搜狗拼音，现在候选词乱码，有人说安什么qim，软件园里搜不到这个东西，我又用deb删除了软件包，重新用终端安装sudo aptitude install fcitx fcitx\u002Dsogoupinyin，结果提示找不到sogoupinyin，呜呼。",
+        "replies" : 81,
+        "member" : {
+            "id" : 10273,
+            "username" : "jacob",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.com/avatar/995d/8b30/10273_mini.png?m=1391062793",
+            "avatar_normal" : "//cdn.v2ex.com/avatar/995d/8b30/10273_normal.png?m=1391062793",
+            "avatar_large" : "//cdn.v2ex.com/avatar/995d/8b30/10273_large.png?m=1391062793"
+        },
+        "node" : {
+            "id" : 11,
+            "name" : "linux",
+            "title" : "Linux",
+            "title_alternative" : "Linux",
+            "url" : "http://www.v2ex.com/go/linux",
+            "topics" : 1137,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/6512/bd43/11_mini.png?m=1409659019",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/6512/bd43/11_normal.png?m=1409659019",
+            "avatar_large" : "//cdn.v2ex.com/navatar/6512/bd43/11_large.png?m=1409659019"
+        },
+        "created" : 1409647143,
+        "last_modified" : 1409659003,
+        "last_touched" : 1409711858
+    },
+    
+    {
+        "id" : 131356,
+        "title" : "昼伏夜出撸代码刚起床，又一次成功控制梦境，分享一下经历，包含强制自我唤醒、自定义剧情、角色加载",
+        "url" : "http://www.v2ex.com/t/131356",
+        "content" : "## 梦境的鉴别\u000D\u000A\u000D\u000A控制梦境的前提，是你要知道正在做梦。这就类似有时候写恶意程序，需要判断是不是运行在虚拟机里，再决定该干嘛。\u000D\u000A\u000D\u000A有的梦荒谬到不需要任何辅助，你就能知道这是梦。比如现在要是让我梦见回到高中，特么居然又要考试，我就会呵呵呵的把卷子撕掉，把同桌的妹纸（一般是我安排在那里的）扑了。\u000D\u000A\u000D\u000A盗梦空间里说你想不起梦是从哪里开始的，这在有时候是不对的，尤其是嵌套梦境。比如刚才我梦见在看电视，里面是类似CSI的刑侦片，突然梦境就变成我在剧情里围观警察收集尸体碎片了。这个时候如果你仔细回想，会想起刚才不是在看电视么。\u000D\u000A\u000D\u000A盗梦空间里用真实世界里的音乐做同步信号、用图腾判别真实性，在有的时候的确是有用的。\u000D\u000A\u000D\u000A比如我图腾是键盘，因为经常在梦里写代码，醒来不能存盘很烦恼，于是我总会检查键盘对不对。现实里的键盘F和J上的定位点早就撸没了，梦里的总是和新的一样。\u000D\u000A\u000D\u000A但我的个人经验是，你不能自选图腾，你的图腾也不会一直跟着你，比如显然我不会随身携带键盘。\u000D\u000A\u000D\u000A## 自我唤醒与控制梦境\u000D\u000A\u000D\u000A在你精力特别好的时候，即使在梦里，自我意识的控制力都很强，这时候一般直接就能强行控制梦境了。在大学之前还没怎么失眠的时候，我经常就是这样的，能强行加载一大群妹纸放在一条街上。\u000D\u000A\u000D\u000A很多时候这样都是不行的，于是自我唤醒就很重要了。大家可能经常都有这样的经历，半夜醒来，半睡半醒中想到的事情，会在随后的梦里发生。早上赖床的时候，想着再睡5分钟就穿衣服洗脸刷牙出门，于是接下来就梦见你穿上衣服洗完脸刷牙出门了，最后就迟到了。\u000D\u000A\u000D\u000A这个经历告诉我们人脑的一个bug，如果把梦境看做函数调用，多层梦境就是嵌套调用，在一个调用返回后会pop堆栈恢复寄存器，但这个过程非常缓慢（也许寄存器太多？），如果在这个时候进行写操作，会导致race condition，覆盖掉一部分内存，使得注入自定义代码和数据成为可能。\u000D\u000A\u000D\u000A所以利用这个bug，控制梦境就可以通过先把自己唤醒，然后在唤醒即将成功的时候注入控制梦境的代码和数据，中断唤醒过程，然后就随心所欲了。\u000D\u000A\u000D\u000A怎么唤醒？一般你努力睁眼，最后总是会真正的睁开眼的。但有时候睡得太深，这种方法无效，刚才我就遇到了。\u000D\u000A\u000D\u000A## 潜意识投影的人物\u000D\u000A\u000D\u000A在梦里，其实你都是自己在跟自己说话，所有的人物，都是你自己造出来的。\u000D\u000A\u000D\u000A盗梦空间里，潜意识投影的人物都会义无反顾的护犊子，这并不是真的。大多数懒得理你，不少会和你对着干，只有少数真的会帮忙。\u000D\u000A\u000D\u000A回到刚才的梦，第一层梦境里在看电视，然后第二层梦境是自己亲自进入了电视里的剧情。这个时候发现不对了，但是睁眼大法失效了。\u000D\u000A\u000D\u000A然后我振臂高呼：“劳资在做梦，你们被我识破了！识相的滚出来指路！”\u000D\u000A\u000D\u000A这时一个操着黑人口音英文的哥们出来帮忙了（疑似是因为睡觉时开着豆瓣电台，放的R\u0026B频道，当时正好在rap），他提供的解决方案如下：\u000D\u000A\u000D\u000A1. 当时我们在一个购物广场上，他说你随便找一个门进去\u000D\u000A2. 我就选了一家卖内衣的店进去了，他说你把门关上，然后开始挑这扇门的毛病\u000D\u000A3. 于是那扇门越看越不对，最后门消失了变成了一面墙\u000D\u000A4. 他说你看你穿的什么鞋（皮鞋），脱掉，然后用左脚蹭右脚，注意质感的区别\u000D\u000A5. 质感显然不对，居然还是皮鞋的质感，他说一直蹭，寻找肉蹭肉的质感\u000D\u000A\u000D\u000A然后就成功醒来了。\u000D\u000A\u000D\u000A半睡半醒的时候想着等会起来要去v2发帖子，于是就梦见开电脑上v2发帖子。\u000D\u000A一看键盘不对，呵呵呵的开始想，恩，等会要教一个妹纸这样控制梦境。\u000D\u000A不久后妹纸一身OL装扮出现了，“哥骗你的，我们玩别的吧”。\u000D\u000A\u000D\u000A现在我看键盘的定位点都被撸没了，就发了这个贴。",
+        "content_rendered" : "\u003Ch2\u003E梦境的鉴别\u003C/h2\u003E\u000A\u000A\u003Cp\u003E控制梦境的前提，是你要知道正在做梦。这就类似有时候写恶意程序，需要判断是不是运行在虚拟机里，再决定该干嘛。\u003C/p\u003E\u000A\u000A\u003Cp\u003E有的梦荒谬到不需要任何辅助，你就能知道这是梦。比如现在要是让我梦见回到高中，特么居然又要考试，我就会呵呵呵的把卷子撕掉，把同桌的妹纸（一般是我安排在那里的）扑了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E盗梦空间里说你想不起梦是从哪里开始的，这在有时候是不对的，尤其是嵌套梦境。比如刚才我梦见在看电视，里面是类似CSI的刑侦片，突然梦境就变成我在剧情里围观警察收集尸体碎片了。这个时候如果你仔细回想，会想起刚才不是在看电视么。\u003C/p\u003E\u000A\u000A\u003Cp\u003E盗梦空间里用真实世界里的音乐做同步信号、用图腾判别真实性，在有的时候的确是有用的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E比如我图腾是键盘，因为经常在梦里写代码，醒来不能存盘很烦恼，于是我总会检查键盘对不对。现实里的键盘F和J上的定位点早就撸没了，梦里的总是和新的一样。\u003C/p\u003E\u000A\u000A\u003Cp\u003E但我的个人经验是，你不能自选图腾，你的图腾也不会一直跟着你，比如显然我不会随身携带键盘。\u003C/p\u003E\u000A\u000A\u003Ch2\u003E自我唤醒与控制梦境\u003C/h2\u003E\u000A\u000A\u003Cp\u003E在你精力特别好的时候，即使在梦里，自我意识的控制力都很强，这时候一般直接就能强行控制梦境了。在大学之前还没怎么失眠的时候，我经常就是这样的，能强行加载一大群妹纸放在一条街上。\u003C/p\u003E\u000A\u000A\u003Cp\u003E很多时候这样都是不行的，于是自我唤醒就很重要了。大家可能经常都有这样的经历，半夜醒来，半睡半醒中想到的事情，会在随后的梦里发生。早上赖床的时候，想着再睡5分钟就穿衣服洗脸刷牙出门，于是接下来就梦见你穿上衣服洗完脸刷牙出门了，最后就迟到了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E这个经历告诉我们人脑的一个bug，如果把梦境看做函数调用，多层梦境就是嵌套调用，在一个调用返回后会pop堆栈恢复寄存器，但这个过程非常缓慢（也许寄存器太多？），如果在这个时候进行写操作，会导致race condition，覆盖掉一部分内存，使得注入自定义代码和数据成为可能。\u003C/p\u003E\u000A\u000A\u003Cp\u003E所以利用这个bug，控制梦境就可以通过先把自己唤醒，然后在唤醒即将成功的时候注入控制梦境的代码和数据，中断唤醒过程，然后就随心所欲了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E怎么唤醒？一般你努力睁眼，最后总是会真正的睁开眼的。但有时候睡得太深，这种方法无效，刚才我就遇到了。\u003C/p\u003E\u000A\u000A\u003Ch2\u003E潜意识投影的人物\u003C/h2\u003E\u000A\u000A\u003Cp\u003E在梦里，其实你都是自己在跟自己说话，所有的人物，都是你自己造出来的。\u003C/p\u003E\u000A\u000A\u003Cp\u003E盗梦空间里，潜意识投影的人物都会义无反顾的护犊子，这并不是真的。大多数懒得理你，不少会和你对着干，只有少数真的会帮忙。\u003C/p\u003E\u000A\u000A\u003Cp\u003E回到刚才的梦，第一层梦境里在看电视，然后第二层梦境是自己亲自进入了电视里的剧情。这个时候发现不对了，但是睁眼大法失效了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E然后我振臂高呼：“劳资在做梦，你们被我识破了！识相的滚出来指路！”\u003C/p\u003E\u000A\u000A\u003Cp\u003E这时一个操着黑人口音英文的哥们出来帮忙了（疑似是因为睡觉时开着豆瓣电台，放的R\u0026amp\u003BB频道，当时正好在rap），他提供的解决方案如下：\u003C/p\u003E\u000A\u000A\u003Col\u003E\u000A\u003Cli\u003E当时我们在一个购物广场上，他说你随便找一个门进去\u003C/li\u003E\u000A\u003Cli\u003E我就选了一家卖内衣的店进去了，他说你把门关上，然后开始挑这扇门的毛病\u003C/li\u003E\u000A\u003Cli\u003E于是那扇门越看越不对，最后门消失了变成了一面墙\u003C/li\u003E\u000A\u003Cli\u003E他说你看你穿的什么鞋（皮鞋），脱掉，然后用左脚蹭右脚，注意质感的区别\u003C/li\u003E\u000A\u003Cli\u003E质感显然不对，居然还是皮鞋的质感，他说一直蹭，寻找肉蹭肉的质感\u003C/li\u003E\u000A\u003C/ol\u003E\u000A\u000A\u003Cp\u003E然后就成功醒来了。\u003C/p\u003E\u000A\u000A\u003Cp\u003E半睡半醒的时候想着等会起来要去v2发帖子，于是就梦见开电脑上v2发帖子。\u003Cbr\u003E\u000A一看键盘不对，呵呵呵的开始想，恩，等会要教一个妹纸这样控制梦境。\u003Cbr\u003E\u000A不久后妹纸一身OL装扮出现了，“哥骗你的，我们玩别的吧”。\u003C/p\u003E\u000A\u000A\u003Cp\u003E现在我看键盘的定位点都被撸没了，就发了这个贴。\u003C/p\u003E\u000A",
+        "replies" : 61,
+        "member" : {
+            "id" : 55747,
+            "username" : "akfish",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.com/avatar/2cd1/6a1c/55747_mini.png?m=1394370330",
+            "avatar_normal" : "//cdn.v2ex.com/avatar/2cd1/6a1c/55747_normal.png?m=1394370330",
+            "avatar_large" : "//cdn.v2ex.com/avatar/2cd1/6a1c/55747_large.png?m=1394370330"
+        },
+        "node" : {
+            "id" : 16,
+            "name" : "share",
+            "title" : "分享发现",
+            "title_alternative" : "Share",
+            "url" : "http://www.v2ex.com/go/share",
+            "topics" : 11493,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/c74d/97b0/16_mini.png?m=1408690202",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/c74d/97b0/16_normal.png?m=1408690202",
+            "avatar_large" : "//cdn.v2ex.com/navatar/c74d/97b0/16_large.png?m=1408690202"
+        },
+        "created" : 1409652742,
+        "last_modified" : 1409652835,
+        "last_touched" : 1409712610
+    },
+    
+    {
+        "id" : 131328,
+        "title" : "18 元一年的 shadowsocks 账号",
+        "url" : "http://www.v2ex.com/t/131328",
+        "content" : "这个原本是给推友开的特价套餐，一直不想在这里发广告，不过朋友说这个18块的确实性价比还不错，可以来一发。\u000D\u000A账号是美国单节点，30G流量每月，速度的话在上海电信，全天可以流畅Youtube，基本都可以1080P，晚上偶尔只能看720P或者480P。其他地方估计不会都能有上海这么快，不过速度也都还可以，推友评价都还不错。\u000D\u000A已经低调运营三年半了，隐私什么的可以放心，保证不侵犯。\u000D\u000A18块的套餐9月4号凌晨停止购买，拿来备用啥的性价比应该还可以，忘贴地址了： http://my.ssh91.net/cart.php?gid\u003D19\u000D\u000A看不上美国的我们有一号通套餐，日本、新加坡和香港节点，不过价格是80一年，之前也有V有推荐过。\u000D\u000A要测试速度的给chali5wen艾特gmail.com发邮件（注明测试哪个）",
+        "content_rendered" : "这个原本是给推友开的特价套餐，一直不想在这里发广告，不过朋友说这个18块的确实性价比还不错，可以来一发。\u003Cbr /\u003E账号是美国单节点，30G流量每月，速度的话在上海电信，全天可以流畅Youtube，基本都可以1080P，晚上偶尔只能看720P或者480P。其他地方估计不会都能有上海这么快，不过速度也都还可以，推友评价都还不错。\u003Cbr /\u003E已经低调运营三年半了，隐私什么的可以放心，保证不侵犯。\u003Cbr /\u003E18块的套餐9月4号凌晨停止购买，拿来备用啥的性价比应该还可以，忘贴地址了： \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://my.ssh91.net/cart.php?gid\u003D19\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://my.ssh91.net/cart.php?gid\u003D19\u003C/a\u003E\u003Cbr /\u003E看不上美国的我们有一号通套餐，日本、新加坡和香港节点，不过价格是80一年，之前也有V有推荐过。\u003Cbr /\u003E要测试速度的给chali5wen艾特gmail.com发邮件（注明测试哪个）",
+        "replies" : 56,
+        "member" : {
+            "id" : 34919,
+            "username" : "lonely520224",
+            "tagline" : "",
+            "avatar_mini" : "https://secure.gravatar.com/avatar/a62b5abb86ed168993dd2fc4bbcba1b9?s=24&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_mini.png",
+            "avatar_normal" : "https://secure.gravatar.com/avatar/a62b5abb86ed168993dd2fc4bbcba1b9?s=48&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_normal.png",
+            "avatar_large" : "https://secure.gravatar.com/avatar/a62b5abb86ed168993dd2fc4bbcba1b9?s=73&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_large.png"
+        },
+        "node" : {
+            "id" : 648,
+            "name" : "shadowsocks",
+            "title" : "shadowsocks",
+            "title_alternative" : "shadowsocks",
+            "url" : "http://www.v2ex.com/go/shadowsocks",
+            "topics" : 616,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/443c/b001/648_mini.png?m=1402934984",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/443c/b001/648_normal.png?m=1402934984",
+            "avatar_large" : "//cdn.v2ex.com/navatar/443c/b001/648_large.png?m=1402934984"
+        },
+        "created" : 1409645279,
+        "last_modified" : 1409645279,
+        "last_touched" : 1409615517
+    },
+    
+    {
+        "id" : 131271,
+        "title" : "我现在有四张在用手机卡，只有一部单卡手机，求 v2er 们开开脑洞，给个解决方案。",
+        "url" : "http://www.v2ex.com/t/131271",
+        "content" : "简述下背景：开学之前我有三张卡，还有有nexus5和一个双卡功能机，然后那双卡机在开学前意外坏掉，开学后有多了张学校发的卡。（均不是电信卡）\u000D\u000A简述下手机卡：\u000D\u000A      1.长话卡，用于和父母通话，暂无替代品；\u000D\u000A      2.某虚拟运营商的无月租卡，长期绑定支付宝等互联网服务，可承载外出时的上网流量（联通3G），不轻易舍弃；\u000D\u000A      3.学校所发卡，虚拟网内电话短信无限，还要接受学校通知，可承载外出时的上网流量（手机无4G只能用2G网络），较难舍弃；\u000D\u000A      4.移动零月租卡，绑定了银行等暂不支持170号段手机卡的服务，将来肯定舍弃，但过年之前无法舍弃。\u000D\u000A拟定解决方案：\u000D\u000A      1.购买诺基亚107（双卡，超长待机），按需装卡，将来富裕了可以买两部（我是真的穷）。\u000D\u000A      2.购买淘宝上的4卡4待机，类似这种 http://item.taobao.com/item.htm?id\u003D38217620240  。\u000D\u000A      3.参照v2er的高见。",
+        "content_rendered" : "简述下背景：开学之前我有三张卡，还有有nexus5和一个双卡功能机，然后那双卡机在开学前意外坏掉，开学后有多了张学校发的卡。（均不是电信卡）\u003Cbr /\u003E简述下手机卡：\u003Cbr /\u003E      1.长话卡，用于和父母通话，暂无替代品；\u003Cbr /\u003E      2.某虚拟运营商的无月租卡，长期绑定支付宝等互联网服务，可承载外出时的上网流量（联通3G），不轻易舍弃；\u003Cbr /\u003E      3.学校所发卡，虚拟网内电话短信无限，还要接受学校通知，可承载外出时的上网流量（手机无4G只能用2G网络），较难舍弃；\u003Cbr /\u003E      4.移动零月租卡，绑定了银行等暂不支持170号段手机卡的服务，将来肯定舍弃，但过年之前无法舍弃。\u003Cbr /\u003E拟定解决方案：\u003Cbr /\u003E      1.购买诺基亚107（双卡，超长待机），按需装卡，将来富裕了可以买两部（我是真的穷）。\u003Cbr /\u003E      2.购买淘宝上的4卡4待机，类似这种 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://item.taobao.com/item.htm?id\u003D38217620240\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://item.taobao.com/item.htm?id\u003D38217620240\u003C/a\u003E  。\u003Cbr /\u003E      3.参照v2er的高见。",
+        "replies" : 45,
+        "member" : {
+            "id" : 68570,
+            "username" : "a1996",
+            "tagline" : "",
+            "avatar_mini" : "https://secure.gravatar.com/avatar/5cc5e91878fbedd56e88a8585019e94c?s=24&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_mini.png",
+            "avatar_normal" : "https://secure.gravatar.com/avatar/5cc5e91878fbedd56e88a8585019e94c?s=48&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_normal.png",
+            "avatar_large" : "https://secure.gravatar.com/avatar/5cc5e91878fbedd56e88a8585019e94c?s=73&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_large.png"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 32785,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/c20a/d4d7/12_mini.png?m=1408690194",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/c20a/d4d7/12_normal.png?m=1408690194",
+            "avatar_large" : "//cdn.v2ex.com/navatar/c20a/d4d7/12_large.png?m=1408690194"
+        },
+        "created" : 1409629923,
+        "last_modified" : 1409630219,
+        "last_touched" : 1409708099
+    },
+    
+    {
+        "id" : 131317,
+        "title" : "吐槽阿里云",
+        "url" : "http://www.v2ex.com/t/131317",
+        "content" : "1、事件\u000D\u000A\u000D\u000A刚买了6台阿里云主机，3台 123.57.9.0 网段，3台 182.92.167.0 网段。\u000D\u000A\u000D\u000A安装服务器的时候，奇迹发生了，123那个网段里的3台主机，均无法连接 keyserver.ubuntu.com 和 github.com，源码pull不下来，apt的key加不上。182那个网段没事。\u000D\u000A\u000D\u000A发工单问客服，提交traceroute，回复我说电信的国际出口有问题，说要换IP。\u000D\u000A我说好，关了那3台主机，等他们换IP。\u000D\u000A换完了，告诉我说，换了之后还是123网段的。我问不能手动指定IP吗，回答说不能，都是随机指定的。\u000D\u000A我问那怎么办，回答说，要不你把那3台退款，再重新购买，一般情况下。。。就能买到新的不是123网段的IP了。\u000D\u000A\u000D\u000A我已经有点怒了，既然是新购买的主机是随机指定IP，那你怎么就知道一定能分配到不是123的IP？\u000D\u000A不过忍了忍，说，好，我退款。怎么退？\u000D\u000A给了我一个链接，按照那上面的进行。并且告诉我说，一般3个工作日就可以退款完毕。\u000D\u000A\u000D\u000A然后我就真的怒了，说，3个工作日退款完毕，那在这之前，是不是我就没法买新的了，只能就这么等着？要是新买的又是123网段，我就再进入下一个3工作日循环？\u000D\u000A很优雅地回答我说，没办法。\u000D\u000A我说，那我工单不关了，等你们给我一个解决方案。\u000D\u000A\u000D\u000A2、吐槽\u000D\u000A\u000D\u000A实话实说，阿里云做的确实有点烂，之所以还用它，是因为别的。。。。\u000D\u000A\u000D\u000A既然是提供技术服务，常用的技术网站怎么着也应该事先测试一下吧。github都访问不了，说出去不怕丢人吗？要是全天朝都访问不了，我也认了，可182.92那个网段却能访问，这不完全就是产品、技术和测试的问题？稀里糊涂接了几根线，也不管通不通，就拿出来卖了。\u000D\u000A\u000D\u000A象阿里云的诸多问题，CPU效率差、不能手动指定IP，磁盘慢，这还都是小事。以前我竟然遇到过，在主机上做 tcp proxy，竟然不能指定本机为 backend，自己不能转发给自己。最后客服告诉我，没办法解决，底层问题。我当时就一个想法，真牛逼。\u000D\u000A\u000D\u000A我没做过虚拟化，不太清楚这里面的水深水浅，但我觉得既然国外一众云服务都做的很好，为什么国内就做成这么烂的一个市场。难道真的是国人只会微创新，遇到稍有点技术含量的东西就傻了。\u000D\u000A\u000D\u000A网络不通畅，给的解决方案竟然是退了款重新购买，而且折腾3个工作日重新购买后也不保证新的一定就能通畅。这象是一个做技术的公司给的解决方案吗。手动指定个IP，或者手动迁移到另一个网段，在技术上就是这么不可实现吗。你们母公司都2千亿刀上市了，找几个懂技术的人来好好做做阿里云，就这么难吗。\u000D\u000A\u000D\u000A现在我算是掉坑里了。github用不了，github上的gem就死了，项目就无法发布。给公司出预算，说了半天阿里云的优点，好容易买了，结果现在把自己埋进去了。我都挺佩服自己竟然没在工单上骂人。\u000D\u000A\u000D\u000A3、尾声\u000D\u000A\u000D\u000A第一次吐槽，懒得再说什么了。有在阿里云的同学，觉得看不过眼就帮着问问吧，别让你们的客户寒了心。",
+        "content_rendered" : "1、事件\u003Cbr /\u003E\u003Cbr /\u003E刚买了6台阿里云主机，3台 123.57.9.0 网段，3台 182.92.167.0 网段。\u003Cbr /\u003E\u003Cbr /\u003E安装服务器的时候，奇迹发生了，123那个网段里的3台主机，均无法连接 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://keyserver.ubuntu.com\u0022 rel\u003D\u0022nofollow\u0022\u003Ekeyserver.ubuntu.com\u003C/a\u003E 和 github.com，源码pull不下来，apt的key加不上。182那个网段没事。\u003Cbr /\u003E\u003Cbr /\u003E发工单问客服，提交traceroute，回复我说电信的国际出口有问题，说要换IP。\u003Cbr /\u003E我说好，关了那3台主机，等他们换IP。\u003Cbr /\u003E换完了，告诉我说，换了之后还是123网段的。我问不能手动指定IP吗，回答说不能，都是随机指定的。\u003Cbr /\u003E我问那怎么办，回答说，要不你把那3台退款，再重新购买，一般情况下。。。就能买到新的不是123网段的IP了。\u003Cbr /\u003E\u003Cbr /\u003E我已经有点怒了，既然是新购买的主机是随机指定IP，那你怎么就知道一定能分配到不是123的IP？\u003Cbr /\u003E不过忍了忍，说，好，我退款。怎么退？\u003Cbr /\u003E给了我一个链接，按照那上面的进行。并且告诉我说，一般3个工作日就可以退款完毕。\u003Cbr /\u003E\u003Cbr /\u003E然后我就真的怒了，说，3个工作日退款完毕，那在这之前，是不是我就没法买新的了，只能就这么等着？要是新买的又是123网段，我就再进入下一个3工作日循环？\u003Cbr /\u003E很优雅地回答我说，没办法。\u003Cbr /\u003E我说，那我工单不关了，等你们给我一个解决方案。\u003Cbr /\u003E\u003Cbr /\u003E2、吐槽\u003Cbr /\u003E\u003Cbr /\u003E实话实说，阿里云做的确实有点烂，之所以还用它，是因为别的。。。。\u003Cbr /\u003E\u003Cbr /\u003E既然是提供技术服务，常用的技术网站怎么着也应该事先测试一下吧。github都访问不了，说出去不怕丢人吗？要是全天朝都访问不了，我也认了，可182.92那个网段却能访问，这不完全就是产品、技术和测试的问题？稀里糊涂接了几根线，也不管通不通，就拿出来卖了。\u003Cbr /\u003E\u003Cbr /\u003E象阿里云的诸多问题，CPU效率差、不能手动指定IP，磁盘慢，这还都是小事。以前我竟然遇到过，在主机上做 tcp proxy，竟然不能指定本机为 backend，自己不能转发给自己。最后客服告诉我，没办法解决，底层问题。我当时就一个想法，真牛逼。\u003Cbr /\u003E\u003Cbr /\u003E我没做过虚拟化，不太清楚这里面的水深水浅，但我觉得既然国外一众云服务都做的很好，为什么国内就做成这么烂的一个市场。难道真的是国人只会微创新，遇到稍有点技术含量的东西就傻了。\u003Cbr /\u003E\u003Cbr /\u003E网络不通畅，给的解决方案竟然是退了款重新购买，而且折腾3个工作日重新购买后也不保证新的一定就能通畅。这象是一个做技术的公司给的解决方案吗。手动指定个IP，或者手动迁移到另一个网段，在技术上就是这么不可实现吗。你们母公司都2千亿刀上市了，找几个懂技术的人来好好做做阿里云，就这么难吗。\u003Cbr /\u003E\u003Cbr /\u003E现在我算是掉坑里了。github用不了，github上的gem就死了，项目就无法发布。给公司出预算，说了半天阿里云的优点，好容易买了，结果现在把自己埋进去了。我都挺佩服自己竟然没在工单上骂人。\u003Cbr /\u003E\u003Cbr /\u003E3、尾声\u003Cbr /\u003E\u003Cbr /\u003E第一次吐槽，懒得再说什么了。有在阿里云的同学，觉得看不过眼就帮着问问吧，别让你们的客户寒了心。",
+        "replies" : 39,
+        "member" : {
+            "id" : 46770,
+            "username" : "seamon",
+            "tagline" : "",
+            "avatar_mini" : "https://secure.gravatar.com/avatar/4159d319b62db1e4262a296e6989b742?s=24&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_mini.png",
+            "avatar_normal" : "https://secure.gravatar.com/avatar/4159d319b62db1e4262a296e6989b742?s=48&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_normal.png",
+            "avatar_large" : "https://secure.gravatar.com/avatar/4159d319b62db1e4262a296e6989b742?s=73&d=https%3A%2F%2Fcdn.v2ex.com%2Fstatic%2Fimg%2Favatar_large.png"
+        },
+        "node" : {
+            "id" : 104,
+            "name" : "cloud",
+            "title" : "云计算",
+            "title_alternative" : "Cloud Computing",
+            "url" : "http://www.v2ex.com/go/cloud",
+            "topics" : 757,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/c9e1/074f/104_mini.png?m=1409653409",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/c9e1/074f/104_normal.png?m=1409653409",
+            "avatar_large" : "//cdn.v2ex.com/navatar/c9e1/074f/104_large.png?m=1409653409"
+        },
+        "created" : 1409643122,
+        "last_modified" : 1409643122,
+        "last_touched" : 1409712259
+    },
+    
+    {
+        "id" : 131382,
+        "title" : "刚从 WIN7 升级到 8.1 有何技巧和软件推荐否？",
+        "url" : "http://www.v2ex.com/t/131382",
+        "content" : "参见前几天我发的帖子 http://www.v2ex.com/t/130765\u000D\u000A\u000D\u000A还是那可喜欢捣鼓的心就是停不下来。。。。",
+        "content_rendered" : "参见前几天我发的帖子 \u003Ca target\u003D\u0022_blank\u0022 href\u003D\u0022http://www.v2ex.com/t/130765\u0022 rel\u003D\u0022nofollow\u0022\u003Ehttp://www.v2ex.com/t/130765\u003C/a\u003E\u003Cbr /\u003E\u003Cbr /\u003E还是那可喜欢捣鼓的心就是停不下来。。。。",
+        "replies" : 37,
+        "member" : {
+            "id" : 19172,
+            "username" : "leehomsf",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.com/avatar/fe5e/902f/19172_mini.png?m=1334546614",
+            "avatar_normal" : "//cdn.v2ex.com/avatar/fe5e/902f/19172_normal.png?m=1334546614",
+            "avatar_large" : "//cdn.v2ex.com/avatar/fe5e/902f/19172_large.png?m=1334546614"
+        },
+        "node" : {
+            "id" : 12,
+            "name" : "qna",
+            "title" : "问与答",
+            "title_alternative" : "Questions and Answers",
+            "url" : "http://www.v2ex.com/go/qna",
+            "topics" : 32785,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/c20a/d4d7/12_mini.png?m=1408690194",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/c20a/d4d7/12_normal.png?m=1408690194",
+            "avatar_large" : "//cdn.v2ex.com/navatar/c20a/d4d7/12_large.png?m=1408690194"
+        },
+        "created" : 1409661141,
+        "last_modified" : 1409683682,
+        "last_touched" : 1409672780
+    },
+    
+    {
+        "id" : 131336,
+        "title" : "MX4 1799",
+        "url" : "http://www.v2ex.com/t/131336",
+        "content" : "",
+        "content_rendered" : "",
+        "replies" : 33,
+        "member" : {
+            "id" : 27794,
+            "username" : "DearMark",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.com/avatar/4c52/4a05/27794_mini.png?m=1408049494",
+            "avatar_normal" : "//cdn.v2ex.com/avatar/4c52/4a05/27794_normal.png?m=1408049494",
+            "avatar_large" : "//cdn.v2ex.com/avatar/4c52/4a05/27794_large.png?m=1408049494"
+        },
+        "node" : {
+            "id" : 606,
+            "name" : "meizu",
+            "title" : "魅族",
+            "title_alternative" : "Meizu",
+            "url" : "http://www.v2ex.com/go/meizu",
+            "topics" : 11,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/44c4/c173/606_mini.png?m=1409652458",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/44c4/c173/606_normal.png?m=1409652458",
+            "avatar_large" : "//cdn.v2ex.com/navatar/44c4/c173/606_large.png?m=1409652458"
+        },
+        "created" : 1409647052,
+        "last_modified" : 1409652426,
+        "last_touched" : 1409689802
+    },
+    
+    {
+        "id" : 131294,
+        "title" : "纠结了一整个中午，三款 ssd 求个选择。",
+        "url" : "http://www.v2ex.com/t/131294",
+        "content" : "Intel 520 120GB、浦科特PX\u002D128M6S、闪迪 SDSSDHP\u002D128G\u002DZ25至尊高速，希望熟悉ssd的朋友帮忙做个选择。",
+        "content_rendered" : "Intel 520 120GB、浦科特PX\u002D128M6S、闪迪 SDSSDHP\u002D128G\u002DZ25至尊高速，希望熟悉ssd的朋友帮忙做个选择。",
+        "replies" : 29,
+        "member" : {
+            "id" : 40664,
+            "username" : "gno23x",
+            "tagline" : "",
+            "avatar_mini" : "//cdn.v2ex.com/avatar/47ba/e4ce/40664_mini.png?m=1405387362",
+            "avatar_normal" : "//cdn.v2ex.com/avatar/47ba/e4ce/40664_normal.png?m=1405387362",
+            "avatar_large" : "//cdn.v2ex.com/avatar/47ba/e4ce/40664_large.png?m=1405387362"
+        },
+        "node" : {
+            "id" : 688,
+            "name" : "ssd",
+            "title" : "SSD",
+            "title_alternative" : "SSD",
+            "url" : "http://www.v2ex.com/go/ssd",
+            "topics" : 156,
+            "avatar_mini" : "//cdn.v2ex.com/navatar/f799/21bb/688_mini.png?m=1364395121",
+            "avatar_normal" : "//cdn.v2ex.com/navatar/f799/21bb/688_normal.png?m=1364395121",
+            "avatar_large" : "//cdn.v2ex.com/navatar/f799/21bb/688_large.png?m=1364395121"
+        },
+        "created" : 1409637870,
+        "last_modified" : 1409658881,
+        "last_touched" : 1409677727
+    }
+    
+]

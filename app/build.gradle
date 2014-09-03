@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '19.1.0'
+    defaultConfig {
+        applicationId 'com.v2ex.app'
+        minSdkVersion 15
+        targetSdkVersion 19
+        versionCode 1
+        versionName '1.0'
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.jakewharton:butterknife:4.0.+'
+    compile 'com.squareup:otto:1.3.+'
+    compile 'com.android.support:support-v4:+'
+    compile 'com.google.code.gson:gson:2.2.+'
+    compile files('libs/volley.jar')
+    compile 'com.android.support:support-v13:+'
+}
